@@ -1,5 +1,3 @@
-I'll update the README to include information about the query tab functionality:
-
 # README: SEO Keyword Analysis Spreadsheet
 
 ## Overview
